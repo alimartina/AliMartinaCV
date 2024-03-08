@@ -3,14 +3,6 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-head {
-	.estonia-regular {
-		font-family: "Estonia", cursive;
-		font-weight: 400;
-		font-style: normal;
-	  }	  
-}
-
 /* Styles for the body */
 
 body {
@@ -57,3 +49,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.estonia-regular {
+	font-family: "Estonia", cursive;
+	font-weight: 400;
+	font-style: normal;
+  }	
